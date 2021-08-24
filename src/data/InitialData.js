@@ -1,0 +1,32 @@
+export const InitialData=[
+    {
+        id:1,
+        name:'koushik varma',
+        mobile:8498898144,
+        group:'A+'
+    },
+    {
+        id:2,
+        name:'murali',
+        mobile:8498898144,
+        group:'A-'
+    },
+    {
+        id:3,
+        name:'teja',
+        mobile:8498898144,
+        group:'B+'
+    },
+    {
+        id:4,
+        name:'Roja',
+        mobile:8498898144,
+        group:'B-'
+    },
+    {
+        id:5,
+        name:'satya',
+        mobile:8498898144,
+        group:'AB+'
+    }
+]
